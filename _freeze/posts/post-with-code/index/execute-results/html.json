@@ -1,0 +1,15 @@
+{
+  "hash": "245c4edf0f18ed7513a47c2bfc0a067c",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Descriptive Analysis of Alzheimer's Association Program Data\"\nauthor: \"Caleigh Han-Schlegel\"\ndate: \"2025-03-20\"\ncategories: [analysis]\nimage: \"image.jpg\"\n---\n\n\n\nThis was a project created in collaboration with the Alzheimer's Association - Finger Lakes Chapter. You can find the project [here](https://docs.google.com/document/d/1_DjqNXJ6xKTbbkdXemNaMWThksca445F-NiRskQPYAo/edit?usp=sharing){target=\"_blank\"}\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

@@ -1,0 +1,21 @@
+---
+title: "Caleigh Han-Schlegel"
+image: prof_pic.jpeg
+about:
+  template: jolla
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/caleigh-han-schlegel-4977b51b1/
+    - icon: github
+      text: Github
+      href: https://github.com
+---
+
+🎓 Caleigh Han-Schlegel (She/Her) | Public Health Advocate & Community Engagement Specialist
+
+I’m a Master of Public Health candidate at Oregon State University with a passion for addressing the root causes of health disparities. With over two years of experience in nonprofit organizations and healthcare administration, my work focuses on policy development, community outreach, and program evaluation.
+
+My interests lie in maternal and child health, health education, and program coordination, and I am committed to ensuring sustainable, equitable health solutions. Open to networking and new opportunities in public health!
+
+📩 Let’s connect!

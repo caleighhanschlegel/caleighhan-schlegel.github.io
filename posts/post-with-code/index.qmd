@@ -1,0 +1,12 @@
+---
+title: "Descriptive Analysis of Alzheimer's Association Program Data"
+author: "Caleigh Han-Schlegel"
+date: "2025-03-20"
+categories: [analysis]
+image: "image.jpg"
+---
+
+This was a project created in collaboration with the Alzheimer's Association - Finger Lakes Chapter. You can find the project [here](https://docs.google.com/document/d/1_DjqNXJ6xKTbbkdXemNaMWThksca445F-NiRskQPYAo/edit?usp=sharing){target="_blank"}
+```{r}
+1 + 1
+```

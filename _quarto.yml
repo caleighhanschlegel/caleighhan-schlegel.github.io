@@ -1,0 +1,27 @@
+project:
+  type: website
+  output-dir: "docs"
+
+website:
+  title: "Caleigh Han-Schlegel"
+  navbar:
+    left: 
+      - text: "Home"
+        file: index.qmd
+      - text: "Portfolio"
+        file: portfolio.qmd
+      - text: "Resume"
+        file: resume.qmd
+    right:
+      - icon: linkedin
+        href: https://www.linkedin.com/in/caleigh-han-schlegel-4977b51b1/
+      - icon: github
+        href: https://github.com/
+format:
+  html:
+    theme:
+      - cosmo
+    css: styles.css
+
+editor: visual
+
